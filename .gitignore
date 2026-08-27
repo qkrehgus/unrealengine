@@ -1,0 +1,13 @@
+# Unreal Cache Folders #
+/Saved
+/DerivatedDataCache
+/Intermediate
+/Binaries
+/Build
+
+# Visual Studio Cache #
+/.vs
+*.sln
+
+# Level Build Data #
+*_BuiltData.uasset
